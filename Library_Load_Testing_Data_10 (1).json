@@ -1,0 +1,77 @@
+[
+    {
+        "eventtype": "checkout",
+        "book_id": 1000,
+        "member_id": 2003,
+        "date": "2023-05-10"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1000,
+        "member_id": 2013,
+        "date": "2023-05-11"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1000,
+        "member_id": 2000,
+        "date": "2023-05-18"
+    },
+    {
+        "eventtype": "return",
+        "book_id": 1000,
+        "member_id": 2013,
+        "date": "2023-05-22"
+    },
+    {
+        "eventtype": "fulfill",
+        "book_id": 1000,
+        "date": "2023-05-23"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1002,
+        "member_id": 2006,
+        "date": "2023-05-02"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1002,
+        "member_id": 2018,
+        "date": "2023-05-04"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1002,
+        "member_id": 2010,
+        "date": "2023-05-05"
+    },
+    {
+        "eventtype": "return",
+        "book_id": 1002,
+        "member_id": 2006,
+        "date": "2023-05-08"
+    },
+    {
+        "eventtype": "fulfill",
+        "book_id": 1002,
+        "date": "2023-05-09"
+    },
+    {
+        "eventtype": "return",
+        "book_id": 1002,
+        "member_id": 2018,
+        "date": "2023-05-18"
+    },
+    {
+        "eventtype": "fulfill",
+        "book_id": 1002,
+        "date": "2023-05-19"
+    },
+    {
+        "eventtype": "checkout",
+        "book_id": 1011,
+        "member_id": 2019,
+        "date": "2023-05-08"
+    }
+]
